@@ -1,56 +1,57 @@
 {
 	"Database" : [
-		{
-	  "Categories" : 
-	  [
-	    {    
-	       "Title": "soup",
-	       "Icon": "icon.png",
-	       "Elements": 
-	      [
-		{
-		  "Title": "Pumpkin Soup",
-		  "Photo": "icon.png",
-		  "Price": "45",
-		  "Calories": "300",
-		  "Description": "Pumpkin soup served with sage and garlic toasted home made bread",
-		  "ModelName": "model.prefab"
-		},
-		{
-		  "Title": "Chicken With Cream Soup",
-		  "Photo": "icon.png",
-		  "Price": "30",
-		  "Calories": "200",
-		  "Description": "Chicken  & cream served with crispy bread",
-		  "ModelName": "model.prefab"
-		}
-	      ]
-	    },	
-		{    
-	       "Title": "Sandwiches",
-	       "Icon": "icon.png",
-	       "Elements": 
-	      [
-		{
-		  "Title": "Cheese Burger",
-		  "Photo": "icon.png",
-		  "Price": "50",
-		  "Calories": "450",
-		  "Description": "Pure beef burger sandwich, with onion rings, tomatoes, pickled cucumbers, lettuce, topped with red cheddar cheese",
-		  "ModelName": "burger.prefab"
-		},
-		{
-		  "Title": "Meat Fajita Sandwich",
-		  "Photo": "icon.png",
-		  "Price": "50",
-		  "Calories": "400",
-		  "Description": "Marinated beef fajita sandwich in skillet, served in tortilla bread",
-		  "ModelName": "shava.prefab"
-		}
-	      ]
-	    }
-	  ]
-	]
-		}
+	{
+		  "Categories" : 
+		  [
+		    {    
+		       "Title": "soup",
+		       "Icon": "icon.png",
+		       "Elements": 
+		      [
+			{
+			  "Title": "Pumpkin Soup",
+			  "Photo": "icon.png",
+			  "Price": "45",
+			  "Calories": "300",
+			  "Description": "Pumpkin soup served with sage and garlic toasted home made bread",
+			  "ModelName": "model.prefab"
+			},
+			{
+			  "Title": "Chicken With Cream Soup",
+			  "Photo": "icon.png",
+			  "Price": "30",
+			  "Calories": "200",
+			  "Description": "Chicken  & cream served with crispy bread",
+			  "ModelName": "model.prefab"
+			}
+		      ]
+		    },	
+			{    
+		       "Title": "Sandwiches",
+		       "Icon": "icon.png",
+		       "Elements": 
+		      [
+			{
+			  "Title": "Cheese Burger",
+			  "Photo": "icon.png",
+			  "Price": "50",
+			  "Calories": "450",
+			  "Description": "Pure beef burger sandwich, with onion rings, tomatoes, pickled cucumbers, lettuce, topped with red cheddar cheese",
+			  "ModelName": "burger.prefab"
+			},
+			{
+			  "Title": "Meat Fajita Sandwich",
+			  "Photo": "icon.png",
+			  "Price": "50",
+			  "Calories": "400",
+			  "Description": "Marinated beef fajita sandwich in skillet, served in tortilla bread",
+			  "ModelName": "shava.prefab"
+			}
+		      ]
+		    }
+		  ]
+	}
+ ]
+   
   
 }
